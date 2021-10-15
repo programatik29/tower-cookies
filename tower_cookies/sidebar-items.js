@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["service","Middleware to use [`Cookies`]."]],"struct":[["Cookie","Representation of an HTTP cookie."],["CookieManager","Middleware to use [`Cookies`]."],["CookieManagerLayer","Layer to apply [`CookieManager`] middleware."],["Cookies","A parsed on-demand cookie jar."]]});

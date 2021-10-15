@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["tower_cookies"] = [{"text":"impl&lt;B&gt; <a class=\"trait\" href=\"https://docs.rs/axum/0.2.8/axum/extract/trait.FromRequest.html\" title=\"trait axum::extract::FromRequest\">FromRequest</a>&lt;B&gt; for <a class=\"struct\" href=\"tower_cookies/struct.Cookies.html\" title=\"struct tower_cookies::Cookies\">Cookies</a> <span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;B: <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/marker/trait.Send.html\" title=\"trait core::marker::Send\">Send</a>,&nbsp;</span>","synthetic":false,"types":["tower_cookies::Cookies"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

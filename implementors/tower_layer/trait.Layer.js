@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["tower_cookies"] = [{"text":"impl&lt;S&gt; <a class=\"trait\" href=\"https://docs.rs/tower-layer/0.3.1/tower_layer/trait.Layer.html\" title=\"trait tower_layer::Layer\">Layer</a>&lt;S&gt; for <a class=\"struct\" href=\"tower_cookies/struct.CookieManagerLayer.html\" title=\"struct tower_cookies::CookieManagerLayer\">CookieManagerLayer</a>","synthetic":false,"types":["tower_cookies::service::CookieManagerLayer"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
